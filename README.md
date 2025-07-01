@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nesma</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
-- 🔭 I’m currently working on [consulting app _palmail](https://github.com/noursalama22/consulting_app_pailmail.git)
 
 - 📫 How to reach me **nesmaty2000@gmail.com**
 
