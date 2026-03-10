@@ -39,7 +39,7 @@ I'm a **Flutter Developer** passionate about crafting high-performance, beautifu
 - 🤝 Open to collaborating on **Flutter & open-source projects**
 - 💬 Ask me about **Flutter, Dart, Firebase, REST APIs**
 - 📫 Reach me at **nesmaty2000@gmail.com**
-- ⚡ Fun fact: I love clean code almost as much as clean UI!
+
 
 <br clear="right"/>
 
