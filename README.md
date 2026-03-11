@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C6FF&height=200&section=header&text=Nesma%20Yousef&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%26%20Mobile%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
-</div>
-
-<br/>
-
+<br clear="right"/>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Passionate+Flutter+Developer+%F0%9F%92%99;Building+Beautiful+Cross-Platform+Apps+%F0%9F%9A%80;Clean+Code+%7C+Great+UX+%7C+Real+Impact+%E2%9C%A8;Open+to+Collaborate+%26+Innovate+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
@@ -19,18 +14,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/NesmaYousef">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+ 
 </div>
-
 <br/>
-
 ---
 
 ## 👩‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" />
 
 I'm a **Flutter Developer** passionate about crafting high-performance, beautiful cross-platform mobile applications. I enjoy turning complex problems into elegant, user-friendly experiences.
 
@@ -43,7 +34,6 @@ I'm a **Flutter Developer** passionate about crafting high-performance, beautifu
 
 <br clear="right"/>
 
----
 
 ## 🛠️ Skills & Tools
 
@@ -84,24 +74,8 @@ I'm a **Flutter Developer** passionate about crafting high-performance, beautifu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NesmaYousef&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C6FF&icon_color=00C6FF&bg_color=0d1117&text_color=ffffff" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NesmaYousef&layout=compact&hide_border=true&title_color=00C6FF&bg_color=0d1117&text_color=ffffff&langs_count=6" height="170" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NesmaYousef&hide_border=true&ring=00C6FF&fire=0A66C2&currStreakLabel=00C6FF&background=0d1117&sideLabels=ffffff&dates=aaaaaa&stroke=00C6FF" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NesmaYousef&bg_color=0d1117&color=00C6FF&line=0A66C2&point=ffffff&hide_border=true" alt="Activity Graph"/>
 </div>
-
----
 
 ## 🤝 Let's Connect
 
